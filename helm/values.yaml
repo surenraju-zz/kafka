@@ -11,6 +11,8 @@ kafka:
         port: 9092
       tls:
         port: 9093
+      external:
+        port: 9094
     storage: 
       type: jbod
       volumes:
