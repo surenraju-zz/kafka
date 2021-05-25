@@ -13,7 +13,7 @@ helm upgrade --set kafka.kafka.storage.volumes.size=10Mi --set kafka.zookeeper.s
 helm uninstall kafka helm -n kafka
 ```
 
-#Kafdrop
+# Kafdrop
 
 Kafdrop is a web UI for viewing Kafka topics and browsing consumer groups
 
