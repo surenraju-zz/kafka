@@ -25,6 +25,6 @@ appVersion: "0.22.1"
 
 dependencies:
 - name: strimzi-kafka-operator
-  version: "0.22.1"
+  version: "0.23.0"
   repository: "https://strimzi.io/charts"
   condition: strimzi.enabled
